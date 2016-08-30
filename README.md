@@ -1,5 +1,5 @@
 # MD-Twitter-Bot
-Python script that tweets songs hosted on YouTube periodically based on a plain text playlist.
+Python script that tweets YouTube links to songs based on a plain text playlist.
 
 https://twitter.com/MelodeathBot (currently running 1.1)
 
