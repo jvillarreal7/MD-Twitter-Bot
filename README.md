@@ -19,4 +19,4 @@ https://twitter.com/MelodeathBot (currently running 1.1)
 * Console printer now shows a timestamp.
 
 #Known issues:
-* It may tweet an album instead of a song if both have the same title.
+* It may tweet an album instead of a song if they share the same title.
