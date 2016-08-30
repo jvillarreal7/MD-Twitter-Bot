@@ -6,7 +6,7 @@ https://twitter.com/MelodeathBot (currently running 1.1)
 #Version 1.0 (Aug 28 2016):
 * Loops over song titles from a .txt file.
 
-* Sends a search query to YouTube containing the artist + song title and recieves video ID of the first result.
+* Sends a search query to YouTube containing the artist + song title and recieves the first result's video ID.
 
 * Tweets artist, song title, hashtag and YouTube link periodically (default: 30 minutes).
 
