@@ -1,5 +1,5 @@
 <your song titles here>
-Remember these will be tweeted as well, avoid posting duplicate songs or the bot will crash.
+Remember these will be tweeted as well, avoid adding duplicate songs or the bot will crash.
 Examples:
 Arch Enemy - The Immortal
 Soilwork The Living Infinite
