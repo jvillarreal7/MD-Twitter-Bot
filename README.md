@@ -1,7 +1,6 @@
 # MD-Twitter-Bot
 Python script that tweets YouTube links to songs based on a plain text playlist.
 
-https://twitter.com/MelodeathBot (currently running, version 1.1)
 
 #Version 1.0 (Aug 28 2016):
 * Loops over song titles from a .txt file.
